@@ -9,6 +9,6 @@
 <p> <h1> About me </h1></p>
 <p> University : <a href ="https://en.uit.edu.vn/"> UIT, VNU-HCM </a> </p>
 <p> <h3> <b> Major: </b> </h3> Computer Science </p> 
-<p> <h3> <b> My Hobbies: </b> </h3> Playing game, reading book,.....</p>
+<p> <h3> <b> My Hobbies: </b> </h3> Playing sport, playing game,.....</p>
 <p> <h5> I'm currently learning: English, C++, Python. </h5></p>
 

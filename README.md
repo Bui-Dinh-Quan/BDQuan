@@ -8,6 +8,6 @@
 <p> <h3> Gmail: <a href = "https://mail.google.com/mail/u/1/#inbox"> 21522487@gm.uit.edu.vn </a> </p>
 <p> <h1> About me </h1></p>
 <p> <h3> University : <a href ="https://en.uit.edu.vn/"> UIT, VNU-HCM </a> </p>
-<p> <h3> <b> Major: Computer Science </p> 
-<p> <h3> <b> My Hobbies: Playing soccer,.....</p>
+<p> <h3> <b> Major: <b> Computer Science </p> 
+<p> <h3> <b> My Hobbies: <b> Playing soccer,.....</p>
 <p> <h5> I'm currently learning: English, C++, Python. </h5></p>

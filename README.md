@@ -1,4 +1,4 @@
-### <h1>Welcome to BDQuan's profile 👋 </h1>
+### Welcome to BDQuan's profile 👋
 
 <p> <h3> <b> Name: </b> Bui Dinh Quan </h3></p>
 <p> <h3> <b> Birthday: </b> 13/03/2003 </h3></p>

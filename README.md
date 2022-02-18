@@ -11,4 +11,3 @@
 <p> <h3> <b> Major: </b> </h3> Computer Science </p> 
 <p> <h3> <b> My Hobbies: </b> </h3> Playing soccer,.....</p>
 <p> <h5> I'm currently learning: English, C++, Python. </h5></p>
-

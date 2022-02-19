@@ -47,7 +47,7 @@
 <h3 style="color: #990000"> 🔥 EDUCATION: </h3>
 2018-2021: Le Quy Don gifted High School
 <br />
-2021-Present: University of Information Technology - UIT
+2021-Present: University of Information Technology - VNU HCM (UIT)
 <br />
 </p>
 <img align="right" alt="Profile gif" width="400px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />

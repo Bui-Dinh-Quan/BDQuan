@@ -10,9 +10,6 @@
    <img align="middle" alt="Profile gif" width="1000px" src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/249843654_429970455199000_7423438606072526658_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ma6KKS7fC9UAX8iqMy0&_nc_ht=scontent.fdad3-1.fna&oh=03_AVI6fnREpgzILHVfyzqcyqAuzh9AVtr2Vq2pjMZCG7YCtQ&oe=62372906" />
   </div>
   
-   <br />
-   <br />
-  
 <hr />
   
 <h3 style="color: #0f0f8a"><p align="middle">👋 Hi there, I'm Bui Dinh Quan 👋 <h3 /><p />

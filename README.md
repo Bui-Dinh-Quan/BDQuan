@@ -13,7 +13,7 @@
 <hr />
   
 <h3 style="color: #0f0f8a"><p align="middle">👋 Hi there, I'm Bui Dinh Quan 👋 <h3 /><p />
-<img align="right" alt="Profile gif" width="400px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
+<img align="right" alt="Profile gif" width="400px" src="https://reviewedu.net/wp-content/uploads/2021/09/2232cb90-60aa-43e9-9357-c7ec51f4d82b-1400x788.jpeg" />
 <head />
 <body>
 <p>
@@ -27,18 +27,22 @@
 <br />
 - 🏫 University of Information Technology - VNU HCM	<br />
 <br />
+    <br />
 
 
 <p>
 <h3 style="color: #990000"> 🔥 MORE ABOUT ME </h3>
-    <img align="right" alt="Profile gif" width="400px" src="https://reviewedu.net/wp-content/uploads/2021/09/2232cb90-60aa-43e9-9357-c7ec51f4d82b-1400x788.jpeg" />
+    <img align="right" alt="Profile gif" width="400px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 - 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
 - 🏐 Playing Soccer 🏐 	<br />
 - ⚽️ Huge fan of Real Madrid 📯	<br />
-- 🎼 Love classical Music, 🎹 Favourite composer: Beethoven, Chopin	<br />
 - 👯 I’m looking for groups to learn programming together	<br />
 - 🥅 2021 Goals: Learn new things and become a better version of myself	<br />
     
+    
+  
+<br />
+    <br />
 <p>
 <h3 style="color: #990000"> 🔥 EDUCATION: </h3>
 2018-2021: Le Quy Don gifted High School

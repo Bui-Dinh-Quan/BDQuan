@@ -8,7 +8,7 @@
 <div style="text-align: center;">
 
    <img align="middle" alt="Profile gif" width="1000px" src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/249843654_429970455199000_7423438606072526658_n.png?_nc_cat=110&ccb=1-5&_nc_sid=ae9488&_nc_ohc=ma6KKS7fC9UAX8iqMy0&_nc_ht=scontent.fdad3-1.fna&oh=03_AVI6fnREpgzILHVfyzqcyqAuzh9AVtr2Vq2pjMZCG7YCtQ&oe=62372906" />
-  
+  </div>
   
    <br />
    <br />
@@ -30,7 +30,7 @@
 <br />
 - 🏫 University of Information Technology - VNU HCM	<br />
 
-<img align="right" alt="Profile gif" width="300px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Ho_Chi_Minh_City_University_of_Information_Technology_Full_Logo.JPG" />
+<img align="right" alt="Profile gif" width="400px" src="https://reviewedu.net/wp-content/uploads/2021/09/2232cb90-60aa-43e9-9357-c7ec51f4d82b-1400x788.jpeg" />
 
 <p>
 <h3 style="color: #990000"> 🔥 MORE ABOUT ME </h3>
@@ -75,11 +75,9 @@
   <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
    <br />
-   </a>
 <br />
 
 <br />
-</div>
     
 
 <body />

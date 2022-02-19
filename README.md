@@ -37,7 +37,7 @@
 - 🏐 Playing Soccer 🏐 	<br />
 - ⚽️ Huge fan of Real Madrid 📯	<br />
 - 👯 I’m looking for groups to learn programming together	<br />
-- 🥅 2021 Goals: Learn new things and become a better version of myself	<br />
+- 🥅 2022 Goals: Learn new things and become a better version of myself	<br />
     
     
   

@@ -16,7 +16,7 @@
 <hr />
   
 <h3 style="color: #0f0f8a"><p align="middle">👋 Hi there, I'm Bui Dinh Quan 👋 <h3 /><p />
-<img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
+<img align="right" alt="Profile gif" width="400px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 <head />
 <body>
 <p>
@@ -29,11 +29,12 @@
 - 📝 Faculty of Computer Science 
 <br />
 - 🏫 University of Information Technology - VNU HCM	<br />
+<br />
 
-<img align="right" alt="Profile gif" width="400px" src="https://reviewedu.net/wp-content/uploads/2021/09/2232cb90-60aa-43e9-9357-c7ec51f4d82b-1400x788.jpeg" />
 
 <p>
 <h3 style="color: #990000"> 🔥 MORE ABOUT ME </h3>
+    <img align="right" alt="Profile gif" width="400px" src="https://reviewedu.net/wp-content/uploads/2021/09/2232cb90-60aa-43e9-9357-c7ec51f4d82b-1400x788.jpeg" />
 - 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
 - 🏐 Playing Soccer 🏐 	<br />
 - ⚽️ Huge fan of Real Madrid 📯	<br />
@@ -67,17 +68,15 @@
 <h3 style="color: #990000"> 🔥CONTACT ME: </h3>
 
   
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/buidinhquan1303)
-[![Ins](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dquan_13/)
+<a href="https://www.facebook.com/buidinhquan1303"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/dquan_13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>    
 <a href="mailto:21522487@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   
   <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
    <br />
-<br />
 
-<br />
     
 
 <body />
